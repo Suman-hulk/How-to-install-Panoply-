@@ -57,7 +57,7 @@ We will get a directory named /jars with all the scripts , a shell script , and 
 >panoply.sh  
 >README.txt
  
-Till now the shell script panoply.sh is not executable so we need to make it executable. It has only read and write permissions. So, we need to give the executable permission.
+Till now the shell script panoply.sh is not executable so we need to make it executable. It has only read and write permissions. So, we need to provide the executable permission.
 
     $ chmod +x panoply.sh
    
