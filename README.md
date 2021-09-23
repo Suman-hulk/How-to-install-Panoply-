@@ -6,8 +6,8 @@
 
 * With Panoply 4 you can:
 
-> Slice and plot geo-referenced latitude-longitude, latitude-vertical, longitude-vertical, time-latitude or time-vertical arrays from larger multidimensional variables.
-> Slice and plot "generic" 2D arrays from larger multidimensional variables.
+ > Slice and plot geo-referenced latitude-longitude, latitude-vertical, longitude-vertical, time-latitude or time-vertical arrays from larger multidimensional variables.
+ > Slice and plot "generic" 2D arrays from larger multidimensional variables.
 
 > Slice 1D arrays from larger multidimensional variables and create line plots.
 
