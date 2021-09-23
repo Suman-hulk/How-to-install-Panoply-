@@ -1,12 +1,12 @@
-# How-to-install-Panoply-
+# Panoply
 
-Panoply plots geo-referenced and other arrays from netCDF, HDF, GRIB, and other datasets.
+* Panoply plots geo-referenced and other arrays from netCDF, HDF, GRIB, and other datasets.
 
-Panoply is a cross-platform application that runs on Macintosh, Windows, Linux and other desktop computers.
+* Panoply is a cross-platform application that runs on Macintosh, Windows, Linux and other desktop computers.
 
-With Panoply 4 you can:
+* With Panoply 4 you can:
 
-Slice and plot geo-referenced latitude-longitude, latitude-vertical, longitude-vertical, time-latitude or time-vertical arrays from larger multidimensional variables.
+> Slice and plot geo-referenced latitude-longitude, latitude-vertical, longitude-vertical, time-latitude or time-vertical arrays from larger multidimensional variables.
 > Slice and plot "generic" 2D arrays from larger multidimensional variables.
 
 > Slice 1D arrays from larger multidimensional variables and create line plots.
@@ -27,9 +27,9 @@ Slice and plot geo-referenced latitude-longitude, latitude-vertical, longitude-v
 
 > Explore remote THREDDS and OpenDAP catalogs and open datasets served from them.
 
- Get PANOPLY at : https://www.giss.nasa.gov/tools/panoply/download/PanoplyJ-4.12.11.zip   for Linux
+ * Get PANOPLY at : https://www.giss.nasa.gov/tools/panoply/download/PanoplyJ-4.12.11.zip   for Linux
  
- For installing Panoply we requires JAVA Runtime Environment and JAVA Development Kit. 
+ ### For installing Panoply we requires JAVA Runtime Environment and JAVA Development Kit. 
  
  # INSTALLATION OF JAVA in Ubuntu
  
